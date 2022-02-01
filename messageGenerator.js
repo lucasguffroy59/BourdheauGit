@@ -4,7 +4,7 @@ const introSentences = [
     ["Dans le doute, toujours faire un", ""],
     ["La dernière fois, un petit", "a suffi"],
     ["Sur mes projets, j'utilise toujours", ""],
-    ["C'est plus simple en faisait un", ""],
+    ["C'est plus simple en faisant un", ""],
     ["C'est assez technique mais on peut essayer de faire", "puis", ""],
     ["Surtout faire un", "après un petit", ""],
     ["", "résout souvent le problème"],
